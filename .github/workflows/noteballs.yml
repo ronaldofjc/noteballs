@@ -1,4 +1,4 @@
-name: Vue 3 CI
+name: Noteballs CI
 
 on:
   push:
